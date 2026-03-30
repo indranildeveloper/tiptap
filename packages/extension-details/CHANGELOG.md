@@ -1,5 +1,16 @@
 # @tiptap/extension-details
 
+## 3.22.0
+
+### Patch Changes
+
+- 3a4f0c5: Fix a rerender loop in the Details node view when the toggle button updates its DOM attributes through `renderToggleButton`.
+- Updated dependencies [912a49b]
+- Updated dependencies [f99bdc2]
+  - @tiptap/core@3.22.0
+  - @tiptap/extension-text-style@3.22.0
+  - @tiptap/pm@3.22.0
+
 ## 3.21.0
 
 ### Minor Changes
